@@ -29,5 +29,8 @@
   "homepage": "https://github.com/learn-co-curriculum/js-looping-and-iteration-looping-code-along#readme",
   "devDependencies": {
     "learn-browser": "^0.1.13"
+  },
+  "dependencies": {
+    "sinon": "^7.2.7"
   }
 }
